@@ -6,14 +6,17 @@ Configure and exploit computer systems, adapting the logical configuration of th
 
 
 ## [Galician]
-Repositorio de Código e Exercicios do Ciclo Superior de Formación Profesional __"Desenvolvemento de Aplicacións Multiplataforma"__
+Repositorio de Código e Exercicios do Ciclo Superior de Formación Profesional
+__"Desenvolvemento de Aplicacións Multiplataforma"__
 
 
 
 ## [Spanish]
-Repositorio de Código y Ejercicios del Ciclo Superior de Formación Profesional __"Desarrollo de Aplicaciones Multiplataforma"__
+Repositorio de Código y Ejercicios del Ciclo Superior de Formación Profesional 
+__"Desarrollo de Aplicaciones Multiplataforma"__
 
 
 
 ## [English]
-Code and Exercise Repository of Certificate of Higher Education __"Development of Multiplatform Applications"__
+Code and Exercise Repository of Certificate of Higher Education 
+__"Development of Multiplatform Applications"__
